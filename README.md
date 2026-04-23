@@ -1,6 +1,6 @@
 # ⚡ Lag Killer Pro (AI Chat Optimizer)
 
-![Version](https://img.shields.io/badge/Version-1.0-blue)
+![Version](https://img.shields.io/badge/Version-2.0-blue)
 ![Category](https://img.shields.io/badge/Category-Browser_Extension_%26_Performance-brightgreen)
 ![Size](https://img.shields.io/badge/Size-<10KB-success)
 
