@@ -1,8 +1,14 @@
 # ⚡ Lag Killer Pro (AI Chat Optimizer)
 
+![Status](https://img.shields.io/badge/Status-Deprecated-red)
 ![Version](https://img.shields.io/badge/Version-2.0-blue)
 ![Category](https://img.shields.io/badge/Category-Browser_Extension_%26_Performance-brightgreen)
 ![Size](https://img.shields.io/badge/Size-<10KB-success)
+
+> [!WARNING]
+> **DEPRECATED — No longer maintained.**
+>
+> This project is no longer actively developed or supported and is preserved for reference only. ChatGPT interface changes may break the extension or cause unexpected behavior. Use at your own risk; no further updates or fixes are planned.
 
 ## 📌 Overview
 Ever noticed how browser tabs with long ChatGPT conversations start to freeze, lag, and consume massive amounts of RAM? That happens because the browser struggles to render an infinitely growing DOM tree.
